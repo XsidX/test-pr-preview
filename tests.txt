@@ -1,2 +1,3 @@
 1st trigger test
 2nd trigger test
+3rd trigger test
